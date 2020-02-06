@@ -1,7 +1,7 @@
 class Speaker { 
-    constructor (brand, base, size){ 
+    constructor (brand, price, size){ 
         this.name = brand;    
-        this.base= base;       
+        this.price= price;       
         this.size = size;
     }
 
